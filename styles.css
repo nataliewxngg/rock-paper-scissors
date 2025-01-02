@@ -19,7 +19,7 @@ div > button {
 }
 
 div > button, p {
-    font-size: 13px;
+    font-size: 1em;
     font-weight: 350;
 }
 
